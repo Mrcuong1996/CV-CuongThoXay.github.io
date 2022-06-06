@@ -14,7 +14,6 @@ import {
 import { Avatar, Image, Badge, Card } from "antd";
 import Skills from "../skills/Skills";
 import Interests from "../portfolio/Interests";
-import CheckComment from "../comment/CheckComment";
 
 const Home = () => {
   return (
@@ -145,7 +144,6 @@ const Home = () => {
           <Interests />
         </div>
       </div>
-      {/* <CheckComment /> */}
     </div>
   );
 };
