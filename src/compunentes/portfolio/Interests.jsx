@@ -10,11 +10,15 @@ const Interests = () => {
           <div className="div__code">
          <p>
          <CheckCircleFilled className='div__code-icon'/>
-          Xây Nhà Bằng Chuột
+          Code
          </p>
          <p>
          <CheckCircleFilled className='div__code-icon'/>
-          Chơi Liên Minh Huyền Thoại
+          Liên Minh Huyền Thoại
+         </p>
+         <p>
+         <CheckCircleFilled className='div__code-icon'/>
+          Troll
          </p>
           </div>
         </div>
